@@ -1,27 +1,20 @@
-## Bem-vindo(a) ao perfil do weslleyNakane 😁
+# Weslley Nakane
 
- <div>
-   <a href="https://github.com/weslleyNakane">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyNakane
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyNakane
-&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    <div>Front-End Developer em formação | HTML, CSS, JavaScript | Projetos autorais e responsivos.</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
+Front-End Developer em formação focado em desenvolvimento de interfaces responsivas utilizando HTML, CSS e JavaScript.
 
- 
-<div> 
-  
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gemeos@.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+## 💻 Tecnologias
+HTML5 • CSS3 • JavaScript • Bootstrap • jQuery
+
+## 🚀 Projetos em destaque
+
+### CupcaKarii — Landing Page Responsiva
+Landing page autoral desenvolvida com foco em layout responsivo e organização de código.
+🔗 https://cupca-karii.vercel.app/
+
+
+## 📚 Atualmente estudando
+JavaScript avançado e manipulação de DOM
+
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/weslley-nakane-5a406831a/
+Email:weslleynakanedev@gmail.com
